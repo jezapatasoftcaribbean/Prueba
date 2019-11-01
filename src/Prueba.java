@@ -6,4 +6,9 @@ public class Prueba {
 	private int tercerAtributo3;
 	private int cuartoAtributo;
 	
+	/*
+	 * Comentarios de pruebas
+	 * 
+	 */
+	
 }
