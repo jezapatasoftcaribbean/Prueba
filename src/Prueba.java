@@ -1,6 +1,9 @@
 
 public class Prueba {
 	
-	private String primerAtributo;
+	private float primerAtributo2;
 	private double segundoAtributo;
+	private int tercerAtributo;
+	private int cuartoAtributo;
+	
 }
